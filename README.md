@@ -24,6 +24,6 @@ The project was completed in Q3 2024.
 <img src="https://github.com/user-attachments/assets/b22d32ae-c808-4919-96cc-f24a9158cb64" width="800">
 
 ## Actual photos from the show
-<img src="https://github.com/user-attachments/assets/08bb2bb9-2904-4cf6-9346-a1e07f8e5185" width="500">
-<img src="https://github.com/user-attachments/assets/a75d993e-72a5-48f8-aa27-cf18315a92ca" width="500">
-<img src="https://github.com/user-attachments/assets/c0f45c2a-9586-4e82-a7cd-4975cc58794f" width="500">
+<img src="https://github.com/user-attachments/assets/08bb2bb9-2904-4cf6-9346-a1e07f8e5185" width="350">
+<img src="https://github.com/user-attachments/assets/a75d993e-72a5-48f8-aa27-cf18315a92ca" width="350">
+<img src="https://github.com/user-attachments/assets/c0f45c2a-9586-4e82-a7cd-4975cc58794f" width="350">
