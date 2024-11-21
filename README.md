@@ -1,6 +1,6 @@
 ## HRDW-S-WLED_cube_v1
 
-WLED cube v1 is a cube-shaped lamp, based on WLED software, developed for product presentation of ANO "School 21".
+WLED cube v1 is a cube-shaped lamp, based on WLED software, developed for product presentation of ANO "School 21".\
 Features:
 - Based on ESP32 microcontroller
 - Two ways of power supply the circuit: 24-5 volt DC or 2x 18650 batteries. 5 watt max power usage.
